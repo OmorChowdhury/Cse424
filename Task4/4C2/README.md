@@ -11,7 +11,7 @@ The EuroSAT dataset contains Sentinel-2 satellite images covering 13 spectral ba
 
 ## Data After Preprocessing
 
-[Pre-processing](https://github.com/Abrarkhan88/CSE424/blob/main/Task%204/Task%204c2/cse424_EUROSAT%2BEDA.ipynb).
+[Pre-processing](https://github.com/OmorChowdhury/Cse424/blob/main/Task4/4C2/cse424_EUROSAT%2BEDA.ipynb).
 
 ### Exploratory Data Analysis (EDA) Steps
 
