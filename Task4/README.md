@@ -16,7 +16,7 @@ Watch our presentation on YouTube: [Presentation Video](https://youtu.be/egIcjx9
 ---
 
 ## Task 4c1: Full Project Code
-The full project code can be found [here](https://github.com/Abrarkhan88/CSE424/blob/main/Task%204/cse424_EUROSAT%2BEDA.ipynb).
+The full project code can be found [here](https://github.com/OmorChowdhury/Cse424/blob/main/cse424_EUROSAT%2BEDA.ipynb).
 
 ---
 
@@ -26,12 +26,12 @@ The full project code can be found [here](https://github.com/Abrarkhan88/CSE424/
 - Dataset before pre-processing: [GitHub Link](https://github.com/phelber/eurosat)
 
 ### EuroSAT After Pre-Processing
-- Pre-processing with EDA: [Preprocessed Dataset Analysis](https://github.com/Abrarkhan88/CSE424/blob/main/Task%204/Task%204c2/cse424_EUROSAT%2BEDA.ipynb)
+- Pre-processing with EDA: [Preprocessed Dataset Analysis](https://github.com/OmorChowdhury/Cse424/blob/main/cse424_EUROSAT%2BEDA.ipynb)
 
 ---
 
 ## Task 4c3: PDF Report of Mini-Project
-The full PDF report of the mini-project can be accessed [here](https://drive.google.com/file/d/1IHnUASN_TAhY-aydiRnD6SzYNYtxxU5v/view?usp=sharing).
+The full PDF report of the mini-project can be accessed [here](https://drive.google.com/file/d/1xRJT1qXuDuOkWToF-g4Xw6EWKXwau9Er/view?usp=sharing).
 
 ---
 
